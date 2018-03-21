@@ -262,7 +262,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.6.2)
   jekyll-admin
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
