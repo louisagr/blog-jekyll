@@ -1,8 +1,16 @@
 ---
 title: louisagr - blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Construit avec Jekyll - Exercice Arinfo
-baseurl: "/blog-jekyll" # the subpath of your site, e.g. /blog
-url: "https://louisagr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog-jekyll"
+url: https://louisagr.github.io
 twitter_username: luizojero
 github_username: louisagr
 markdown: kramdown

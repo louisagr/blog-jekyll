@@ -1,9 +1,12 @@
 ---
+title: Troisième Post
+date: 2018-03-21 15:50:00 Z
+categories:
+- jekyll
+- test
 layout: post
-title:  "Troisième Post"
-date:   2018-03-21 16:50:00 +0100
-categories: jekyll test
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
