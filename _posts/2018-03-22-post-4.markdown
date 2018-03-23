@@ -1,11 +1,11 @@
 ---
 title: Quatrième Post
-date: 2018-03-22 19:00:00 Z
+date: 2018-03-22 20:00:00 +01:00
+permalink: "/quatrième-post"
 categories:
 - jekyll
 - test
 layout: post
-permalink: "/quatrième-post"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
