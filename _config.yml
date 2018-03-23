@@ -1,6 +1,6 @@
 ---
 title: louisagr - blog
-timezone: UTC
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
@@ -18,3 +18,12 @@ theme: minima
 plugins:
 - jekyll-feed
 - github-pages
+
+defaults:
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    author: "Louis"

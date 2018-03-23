@@ -5,6 +5,7 @@ categories:
 - jekyll
 - update
 layout: post
+permalink: "/second-post"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
