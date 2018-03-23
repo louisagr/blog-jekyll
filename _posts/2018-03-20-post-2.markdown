@@ -7,6 +7,7 @@ categories:
 layout: post
 permalink: "/second-post"
 ---
+[![f3b9bce52ab845ad0aa0cc2adeb82ad6.md.jpg](https://tof.cx/images/2018/03/23/f3b9bce52ab845ad0aa0cc2adeb82ad6.md.jpg)](https://tof.cx/image/as58A)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

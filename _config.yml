@@ -13,8 +13,10 @@ baseurl: "/blog-jekyll"
 url: https://louisagr.github.io
 twitter_username: luizojero
 github_username: louisagr
+linkedin_username: louis-augereau
 markdown: kramdown
 theme: minima
+show_excerpts: true
 plugins:
 - jekyll-feed
 - github-pages
