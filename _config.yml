@@ -8,6 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Louis
 description: Construit avec Jekyll - Exercice Arinfo
 baseurl: "/blog-jekyll"
 url: https://louisagr.github.io
@@ -20,12 +27,3 @@ show_excerpts: true
 plugins:
 - jekyll-feed
 - github-pages
-
-defaults:
--
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: "post"
-    author: "Louis"

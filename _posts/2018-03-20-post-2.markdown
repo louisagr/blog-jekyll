@@ -1,11 +1,11 @@
 ---
 title: Second Post
-date: 2018-03-20 23:00:00 Z
+date: 2018-03-21 00:00:00 +01:00
+permalink: "/second-post"
 categories:
 - jekyll
 - update
 layout: post
-permalink: "/second-post"
 ---
 [![f3b9bce52ab845ad0aa0cc2adeb82ad6.md.jpg](https://tof.cx/images/2018/03/23/f3b9bce52ab845ad0aa0cc2adeb82ad6.md.jpg)](https://tof.cx/image/as58A)
 
