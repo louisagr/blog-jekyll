@@ -7,7 +7,7 @@ categories:
 - test
 layout: post
 ---
-[![8011d2e8381873ea09ac7a515f56c352.md.jpg](https://tof.cx/images/2018/03/23/8011d2e8381873ea09ac7a515f56c352.md.jpg)](https://tof.cx/image/as2F2)
+![porc.png](assets/img/porc.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

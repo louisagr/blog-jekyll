@@ -23,8 +23,15 @@
   &:visited {
     color: white;
   }
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+    transition: all 1s;
+      -webkit-transition: all 1s;
+      -moz-transition: all 1s;
+      -o-transition: all 1s;
 }
-
+}
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -47,6 +54,14 @@
     &:not(:last-child) {
       margin-right: 20px;
     }
+    &:hover {
+      color: white;
+      text-decoration: none;
+      transition: all 1s;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -o-transition: all 1s;
+  }
   }
 
   @include media-query($on-palm) {
@@ -108,6 +123,18 @@
 /**
  * Site footer
  */
+ .username {
+  font-family: "Open Sans", sans-serif;
+ }
+ .username,
+ .username:focus,
+ .username:active,
+ .username:visited {
+   transition: all 1s;
+     -webkit-transition: all 1s;
+     -moz-transition: all 1s;
+     -o-transition: all 1s;
+ }
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
@@ -189,11 +216,13 @@
 .post-list-heading {
   @include relative-font-size(1.75);
   font-family: "Josefin Sans";
+  text-align: center;
 }
 
 .post-list {
   margin-left: 0;
   list-style: none;
+  display: flex;
 
   > li {
     margin-bottom: $spacing-unit;
@@ -201,14 +230,17 @@
 }
 
 .post-meta {
+  font-family: "Open Sans", sans-serif;
   font-size: $small-font-size;
   color: $grey-color;
+  text-transform: uppercase;
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
   color: #339966;
+  font-family: "Open Sans", sans-serif;
 }
 .post-link,
 .post-link:focus,
