@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; height: auto; width: auto; }
+img { max-width: 100%; vertical-align: auto; height: auto; width: auto; }
 
 /** Figures */
 figure > img { display: block; }
@@ -31,7 +31,7 @@ a { color: #339966; text-decoration: none; }
 a:visited { color: #206040; }
 a:hover { color: #111; text-decoration: none; }
 .social-media-list a:hover { text-decoration: none; }
-.social-media-list a:hover .username { text-decoration: underline; }
+.social-media-list a:hover .username { text-decoration: none; }
 
 /** Blockquotes */
 blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
@@ -91,7 +91,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .username, .username:focus, .username:active, .username:visited { transition: all 1s; -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; }
 
-.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+.site-footer { border-top: 1px solid #339966; padding-top: 10px; }
 
 .footer-heading { font-size: 18px; margin-bottom: 15px; }
 
@@ -120,16 +120,18 @@ table td { border: 1px solid #e8e8e8; }
 .post-list { margin-left: 0; list-style: none; display: flex; }
 .post-list > li { margin-bottom: 30px; }
 
-.post-meta { font-family: "Open Sans", sans-serif; font-size: 14px; color: #828282; text-transform: uppercase; }
+.post-list > .post-meta { text-align: center; }
 
-.post-link { display: block; font-size: 24px; color: #339966; font-family: "Open Sans", sans-serif; }
+.post-meta { font-family: "Open Sans", sans-serif; font-size: 14px; color: #828282; text-align: inherit; }
+
+.post-link { display: inline-flex; font-size: 24px; color: #339966; font-family: "Open Sans", sans-serif; text-align: center; }
 
 .post-link, .post-link:focus, .post-link:active, .post-link:visited { transition: all 1s; -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; }
 
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; text-align: left; }
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
 .post-content { margin-bottom: 30px; }
