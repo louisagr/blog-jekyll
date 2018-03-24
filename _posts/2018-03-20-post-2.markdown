@@ -7,6 +7,7 @@ categories:
 - update
 layout: post
 ---
+
 ![rhino.png](assets/img/rhino.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
