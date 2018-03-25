@@ -1,5 +1,5 @@
 ---
-title: Quatrième Post
+title: Post 4 - Porc
 date: 2018-03-22 20:00:00 +01:00
 permalink: "/quatrième-post"
 categories:
@@ -10,9 +10,8 @@ layout: post
 
 ![porc.png](assets/img/porc.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sus scrofa domesticus est une sous-espèce du sanglier sauvage (Sus scrofa). C'est un mammifère domestique omnivore de la famille des porcins, ou suidés. Appelé porc (du latin porcus) ou cochon ou encore cochon domestique, il est resté proche du sanglier avec lequel il peut se croiser.
+
+La femelle adulte est la truie (coche), la jeune femelle élevée pour la reproduction est une cochette, le mâle est le verrat et le jeune cochon (avant le sevrage) s’appelle porcelet, cochonnet, goret (ou cochon de lait dans l’assiette), le jeune porc sevré se nomme nourrain (ou nourrin)1.
+
+Le terme désigne aussi la viande fournie par cet animal qui est la viande la plus consommée dans le monde alors même que le porc fait l'objet d'un interdit alimentaire dans certaines religions (dans le judaïsme et l'islam notamment). La production se concentre dans trois zones : l’Europe (y compris la Russie), l’Asie (notamment la Chine) et l’Amérique du Nord (le Canada - l'un des plus grands producteurs, avec notamment le Québec - et les États-Unis). La Chine avec 46 millions de tonnes (2003) produit presque la moitié du total mondial.

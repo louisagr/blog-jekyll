@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
   background-color: #339966;
   border-bottom: 1px solid $grey-color-light;
@@ -207,7 +208,7 @@
  */
 
 .page-content {
-  padding: $spacing-unit 0;
+padding-top: 10px;
 }
 
 .page-heading {
@@ -217,7 +218,7 @@
 .post-list-heading {
   @include relative-font-size(1.75);
   font-family: "Josefin Sans";
-  text-align: center;
+
 }
 
 .post-list {
@@ -230,19 +231,17 @@
   }
 }
 
-}
 .post-meta {
   font-family: "Open Sans", sans-serif;
   font-size: $small-font-size;
   color: $grey-color;
-  text-align: inherit;
 }
+
 .post-link {
-  display: inline-flex;
-  @include relative-font-size(1.5);
+  display: flex;
   color: #339966;
   font-family: "Open Sans", sans-serif;
-  text-align: center;
+  font-size: 100%;
 }
 .post-link,
 .post-link:focus,
@@ -264,6 +263,7 @@
 }
 
 .post-title {
+  font-family: "Josefin Sans", sans-serif;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;

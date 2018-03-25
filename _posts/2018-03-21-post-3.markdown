@@ -1,5 +1,5 @@
 ---
-title: Troisième Post
+title: Post 3 - Cerf
 date: 2018-03-21 16:50:00 +01:00
 permalink: "/troisième-post"
 categories:
@@ -10,9 +10,8 @@ layout: post
 
 ![cerf.png](assets/img/cerf.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+Le cerf élaphe (Cervus elaphus) est un grand cervidé des forêts tempérées d'Europe, d'Afrique du Nord, d'Amérique du Nord et d'Asie. Son nom est un pléonasme car « élaphe » signifie déjà « cerf » en grec.
+
+Ce cerf est l'un des représentants les plus connus de cette famille de mammifères. L'espèce comprend plusieurs sous-espèces, dont le cerf de Bactriane, le cerf du Turkestan, le cerf rouge du Turkestan ou encore le cerf élaphe du Turkestan1.
+
+La femelle est la biche et le petit, jusqu'à l'âge de 6 mois, le faon. Ensuite, de 6 mois à 1 an, on l'appelle « bichette » si c'est une femelle et « hère » s'il s'agit d'un mâle. De 1 an à 2 ans, le jeune mâle est appelé « daguet » avec deux grands bois secs.

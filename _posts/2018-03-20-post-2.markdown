@@ -1,5 +1,5 @@
 ---
-title: Second Post
+title: Post 2 - Rhinocéros
 date: 2018-03-21 00:00:00 +01:00
 permalink: "/second-post"
 categories:
@@ -10,9 +10,6 @@ layout: post
 
 ![rhino.png](assets/img/rhino.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+Les rhinocéros sont les mammifères périssodactyles appartenant à la famille des rhinocérotidés (Rhinocerotidae). Toutes les espèces de rhinocéros sont actuellement en voie de disparition.
+
+Les rhinocéros font localement l'objet d'une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l'éléphant. Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.

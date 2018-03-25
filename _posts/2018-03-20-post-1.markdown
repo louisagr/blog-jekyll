@@ -1,5 +1,5 @@
 ---
-title: Premier Post
+title: Post 1 - Éléphant
 date: 2018-03-20 23:40:03 +01:00
 permalink: "/premier-post"
 categories:
@@ -10,22 +10,8 @@ layout: post
 
 ![elephant.png](assets/img/elephant.png)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Les éléphants sont des mammifères proboscidiens de la famille des Éléphantidés. Ils correspondent aujourd'hui à trois espèces réparties en deux genres distincts. L'Éléphant de savane d'Afrique et l'Éléphant de forêt d'Afrique, autrefois regroupés sous la même espèce d'« Éléphant d'Afrique », appartiennent au genre Loxodonta tandis que l'Éléphant d'Asie, anciennement appelé « éléphant indien » appartient au genre Elephas. Ils se différencient par certaines caractéristiques anatomiques, les éléphants d'Asie étant en général plus petits avec des oreilles plus petites, ou encore une différence du bout de la trompe. Ces espèces survivantes font localement l'objet de programmes ou de projets de réintroduction et de protection.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Le mot français « éléphant » vient du mot latin elephantus1 qui tire son origine du grec ἐλέφας signifiant « ivoire » ou « éléphant ».
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Les éléphants apparaissent dans de nombreuses cultures. Il est symbole de sagesse dans la culture asiatique, connu pour sa mémoire et son intelligence, qui est comparée à celle des cétacés2 et hominidés3. Aristote avait dit que l'éléphant est « la bête qui dépasse toutes les autres par l'intelligence et l'esprit »4.
