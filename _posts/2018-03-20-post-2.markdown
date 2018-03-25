@@ -12,4 +12,10 @@ layout: post
 
 Les rhinocéros sont les mammifères périssodactyles appartenant à la famille des rhinocérotidés (Rhinocerotidae). Toutes les espèces de rhinocéros sont actuellement en voie de disparition.
 
+<<<<<<< HEAD
 Les rhinocéros font localement l'objet d'une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l'éléphant. Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.
+=======
+Les rhinocéros font localement l'objet d'une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l'éléphant. 
+
+Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.
+>>>>>>> master
