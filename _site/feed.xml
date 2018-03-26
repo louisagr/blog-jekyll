@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/blog-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog-jekyll/" rel="alternate" type="text/html" /><updated>2018-03-26T00:10:05+02:00</updated><id>http://localhost:4000/blog-jekyll/</id><title type="html">louisagr - blog</title><subtitle>Construit avec Jekyll - Exercice Arinfo</subtitle><entry><title type="html">Post 4 - Porc</title><link href="http://localhost:4000/blog-jekyll/quatri%C3%A8me-post" rel="alternate" type="text/html" title="Post 4 - Porc" /><published>2018-03-22T20:00:00+01:00</published><updated>2018-03-22T20:00:00+01:00</updated><id>http://localhost:4000/blog-jekyll/post-4</id><content type="html" xml:base="http://localhost:4000/blog-jekyll/quatri%C3%A8me-post">&lt;p&gt;&lt;img src=&quot;assets/img/porc.png&quot; alt=&quot;porc.png&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/blog-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog-jekyll/" rel="alternate" type="text/html" /><updated>2018-03-26T11:32:50+02:00</updated><id>http://localhost:4000/blog-jekyll/</id><title type="html">louisagr - blog</title><subtitle>Construit avec Jekyll - Exercice Arinfo</subtitle><entry><title type="html">Post 4 - Porc</title><link href="http://localhost:4000/blog-jekyll/quatri%C3%A8me-post" rel="alternate" type="text/html" title="Post 4 - Porc" /><published>2018-03-22T20:00:00+01:00</published><updated>2018-03-22T20:00:00+01:00</updated><id>http://localhost:4000/blog-jekyll/post-4</id><content type="html" xml:base="http://localhost:4000/blog-jekyll/quatri%C3%A8me-post">&lt;p&gt;&lt;img src=&quot;assets/img/porc.png&quot; alt=&quot;porc.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sus scrofa domesticus est une sous-espèce du sanglier sauvage (Sus scrofa). C’est un mammifère domestique omnivore de la famille des porcins, ou suidés. Appelé porc (du latin porcus) ou cochon ou encore cochon domestique, il est resté proche du sanglier avec lequel il peut se croiser.&lt;/p&gt;
 
@@ -14,7 +14,27 @@
 
 &lt;p&gt;Les rhinocéros sont les mammifères périssodactyles appartenant à la famille des rhinocérotidés (Rhinocerotidae). Toutes les espèces de rhinocéros sont actuellement en voie de disparition.&lt;/p&gt;
 
-&lt;p&gt;Les rhinocéros font localement l’objet d’une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l’éléphant. Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.&lt;/p&gt;</content><author><name>Louis</name></author><summary type="html"></summary></entry><entry><title type="html">Post 1 - Éléphant</title><link href="http://localhost:4000/blog-jekyll/premier-post" rel="alternate" type="text/html" title="Post 1 - Éléphant" /><published>2018-03-20T23:40:03+01:00</published><updated>2018-03-20T23:40:03+01:00</updated><id>http://localhost:4000/blog-jekyll/post-1</id><content type="html" xml:base="http://localhost:4000/blog-jekyll/premier-post">&lt;p&gt;&lt;img src=&quot;assets/img/elephant.png&quot; alt=&quot;elephant.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;«««&amp;lt; HEAD
+Les rhinocéros font localement l’objet d’une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l’éléphant. Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.
+=======
+Les rhinocéros font localement l’objet d’une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol. Ils peuvent mesurer 4 m de longueur pour 1,50 m à 2 m de hauteur au garrot, et une masse pouvant avoisiner les 3 tonnes. Ce sont les plus gros mammifères terrestres actuels après l’éléphant.&lt;/p&gt;
+
+&lt;p&gt;Les rhinocéros sont du même ordre que les chevaux et les tapirs, et non celui des éléphants. Leurs cris sont un barrissement, un grognement, un halètement. Le mot rhinocéros vient du grec rhinos, nez, et keras, corne, car il porte une ou deux cornes sur le nez, et non sur le front comme les autres mammifères cornus.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;master&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;</content><author><name>Louis</name></author><summary type="html"></summary></entry><entry><title type="html">Post 1 - Éléphant</title><link href="http://localhost:4000/blog-jekyll/premier-post" rel="alternate" type="text/html" title="Post 1 - Éléphant" /><published>2018-03-20T23:40:03+01:00</published><updated>2018-03-20T23:40:03+01:00</updated><id>http://localhost:4000/blog-jekyll/post-1</id><content type="html" xml:base="http://localhost:4000/blog-jekyll/premier-post">&lt;p&gt;&lt;img src=&quot;assets/img/elephant.png&quot; alt=&quot;elephant.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Les éléphants sont des mammifères proboscidiens de la famille des Éléphantidés. Ils correspondent aujourd’hui à trois espèces réparties en deux genres distincts. L’Éléphant de savane d’Afrique et l’Éléphant de forêt d’Afrique, autrefois regroupés sous la même espèce d’« Éléphant d’Afrique », appartiennent au genre Loxodonta tandis que l’Éléphant d’Asie, anciennement appelé « éléphant indien » appartient au genre Elephas. Ils se différencient par certaines caractéristiques anatomiques, les éléphants d’Asie étant en général plus petits avec des oreilles plus petites, ou encore une différence du bout de la trompe. Ces espèces survivantes font localement l’objet de programmes ou de projets de réintroduction et de protection.&lt;/p&gt;
 

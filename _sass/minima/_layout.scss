@@ -139,6 +139,7 @@
 .site-footer {
   border-top: 1px solid #339966;
   padding-top: 10px;
+  background-image : url(../assets/img/texture.jpg);
 }
 
 .footer-heading {
@@ -209,6 +210,7 @@
 
 .page-content {
 padding-top: 10px;
+text-align: center;
 }
 
 .page-heading {
@@ -224,10 +226,11 @@ padding-top: 10px;
 .post-list {
   margin-left: 0;
   list-style: none;
-  display: flex;
+
 
   > li {
     margin-bottom: $spacing-unit;
+    vertical-align: middle;
   }
 }
 
@@ -238,7 +241,7 @@ padding-top: 10px;
 }
 
 .post-link {
-  display: flex;
+  text-align: center;
   color: #339966;
   font-family: "Open Sans", sans-serif;
   font-size: 100%;
@@ -267,7 +270,7 @@ padding-top: 10px;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  text-align: left;
+  text-align: center;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
